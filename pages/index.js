@@ -4,6 +4,7 @@ import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
+import Image from "next/image";
 export default function Home({ allPostsData }) {
   return (
       <Layout home>
@@ -11,10 +12,27 @@ export default function Home({ allPostsData }) {
           <title>{siteTitle}</title>
         </Head>
         <section className={utilStyles.headingMd}>
-          <p>[Your Self Introduction]</p>
           <p>
-            (This is a sample website - you’ll be building a site like this on{' '}
-            <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+              Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.
+              Skilled in Web, Desktop, Mobile, Cloud, Databases, and UI frameworks.
+              Strong engineering professional with a HND focused in HND Computing Science from De Montfort University.</p>
+          <p>
+              <a href={"https://www.linkedin.com/in/robert-okoroafor-10a19314/"}>
+                  <Image
+                      priority
+                      src="/images/LI-In-Bug.png"
+                      height={130}
+                      width={144}
+                  />
+              </a>
+              <a href={"https://github.com/robooko"}>
+                  <Image
+                      priority
+                      src="/images/Octocat.png"
+                      height={130}
+                      width={174}
+                  />
+              </a>
           </p>
         </section>
           <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

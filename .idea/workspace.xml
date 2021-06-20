@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b85e19c-b8e4-410c-bc14-2901be40a0b3" name="Default Changelist" comment="">
+    <list default="true" id="4b85e19c-b8e4-410c-bc14-2901be40a0b3" name="Default Changelist" comment="ok">
+      <change afterPath="$PROJECT_DIR$/public/images/LI-In-Bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Octocat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/robert.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +50,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\robert\source\repos\nextjs-test\public\images" />
       <recent name="C:\Users\robert\source\repos\nextjs-test\posts" />
       <recent name="C:\Users\robert\source\repos\nextjs-test\components" />
-      <recent name="C:\Users\robert\source\repos\nextjs-test\public\images" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -87,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624098306155</updated>
-      <workItem from="1624098308213" duration="16924000" />
+      <workItem from="1624098308213" duration="20090000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1624193344311</created>
@@ -96,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624193344311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ok">
+      <created>1624193698672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624193698672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ok">
+      <created>1624193774527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624193774527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +130,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624193458402" />
-    <state x="905" y="291" key="CommitChangelistDialog2" timestamp="1624193343354">
+    <state x="905" y="291" key="CommitChangelistDialog2" timestamp="1624195578774">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="291" key="CommitChangelistDialog2/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624193343354" />
+    <state x="905" y="291" key="CommitChangelistDialog2/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624195578774" />
     <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1624192885838">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -131,9 +150,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="401" key="GridCell.Tab.0.right/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624192885838" />
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1624193648899">
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1624193797998">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624193648899" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624193797998" />
+    <state x="976" y="432" width="607" height="536" key="find.popup" timestamp="1624196881128">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="432" width="607" height="536" key="find.popup/5120.372.1920.1040/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1624196881128" />
   </component>
 </project>
